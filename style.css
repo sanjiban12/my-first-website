@@ -1,0 +1,65 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+h1{
+font-size: 80px;
+line-height: 40px;
+font-size: 80px;
+}
+.name-highlite{
+    color:  #FF8367;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 5%;
+   
+}
+.half-width img{
+    width: 100%;
+}
+.half-width2{
+    width: 40%;
+    float: right;
+    margin: 5%;
+   
+}
+.half-width2 img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: #FF8063;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding:70px,270px;
+    border-radius: 3px;
+    color: white;
+    font-weight: 700;
+}
+
+.fornt-size{
+    width: 260px;
+    height: 48px;
+    font-size: 16px;
+    line-height: 24px;
+}
+.center{
+    text-align: center;
+    
+}
+.website{
+    box-shadow: 20px 20px 40px gray;
+    border-radius: 3px;
+    width: 25%;
+    height: 20%;
+    float: left;
+    margin: 200px.200px,200px,200px;
+    padding: 100px,100px;
+
+}
+.website img{
+    width: 100%;
+    height: 50%;
+    margin: 20px,20px;
+    padding: 100px,100px;
+}
